@@ -1,5 +1,5 @@
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AD58-3104&theme=shades-of-purple)
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AD58-3104}&theme={2077})  
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AD58-3104&theme=shades-of-purple)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AD58-3104&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
